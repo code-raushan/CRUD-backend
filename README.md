@@ -1,6 +1,6 @@
 # CRUD-backend
 
-## Created Using Node.js, Express(Node Web Framework), Mongoose(MongoDB ORM)
+## Created Using Node.js, Express(Node Web Framework), Mongoose(MongoDB ODM)
 
 - An organised CRUD Backend built to learn fundamental operations on Database using Node. 
 
